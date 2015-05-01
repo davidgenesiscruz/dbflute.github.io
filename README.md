@@ -1,8 +1,9 @@
 #DBFlute  
-DBFluteのreadmeファイル
-
-##DBFluteとは  
 __DB変更に強い__ をテーマにした開発支援ツール（Java8対応）
+
+##DBFluteの主な機能  
+__O/Rマッパー__ 自動生成ドリブンでDB変更の影響範囲をスピーディーに検知
+__DB管理支援ツール__ DB環境構築自動化や履歴管理など、DB変更の運用上の悩みを解決
 
 ##Install方法  
 現在: DBFlute-1.1.0-sp2  
@@ -13,7 +14,7 @@ __[__[自動生成ツール](http://dbflute.seasar.org/ja/manual/function/genera
 --__[__[DBFlute Client](http://dbflute.seasar.org/ja/manual/function/generator/client/index.html)__]__ DBFluteを利用するためのアプリケーション設定など  
 --__[__[DBFlute   Module](http://dbflute.seasar.org/ja/manual/function/generator/module/index.html)__]__ DBFluteの本体で、自動生成などの実処理を行うモジュール  
 
-__[__[O/Rマッパ](http://dbflute.seasar.org/ja/manual/function/ormapper/index.html)__]__ アプリケーション上でDBへのアクセス法  
+__[__[O/Rマッパー](http://dbflute.seasar.org/ja/manual/function/ormapper/index.html)__]__ アプリケーション上でDBへのアクセス法  
 --__[__[Behavior](http://dbflute.seasar.org/ja/manual/function/ormapper/behavior/index.html)__]__ 全てのDBアクセスの処理法  
 --__[__[ConditionBean](http://dbflute.seasar.org/ja/manual/function/ormapper/behavior/index.html)__]__ 検索条件の組み立て  
 --__[__[OutsideSql](http://dbflute.seasar.org/ja/manual/function/ormapper/outsidesql/index.html)__]__ 外部ファイルのSQL(2Way-SQL)の実行  
