@@ -6,8 +6,7 @@ __O/Rマッパー__ 自動生成ドリブンでDB変更の影響範囲をスピ�
 __DB管理支援ツール__ DB環境構築自動化や履歴管理など、DB変更の運用上の悩みを解決
 
 ##Install方法  
-現在: DBFlute-1.1.0-sp2  
-Mavenによるセットアップは[こちら](http://dbflute.seasar.org/ja/environment/setup/maven.html)
+Mavenによるセットアップ（ver: DBFlute-1.1.0-sp2）は[こちら](http://dbflute.seasar.org/ja/environment/setup/maven.html)
 
 ##機能マニュアル  
 __[__[自動生成ツール](http://dbflute.seasar.org/ja/manual/function/generator/index.html)__]__ メタ情報からクラスの自動生成  
